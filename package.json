@@ -1,0 +1,12 @@
+{
+  "name": "js-ast-compiler",
+  "version": "1.0.0",
+  "description": "Compiles ESTree compatible JavaScript AST to JavaScript code",
+  "main": "compile.js",
+  "repository": "https://github.com/DCzajkowski/js-ast-compiler",
+  "author": "Dariusz Czajkowski",
+  "license": "MIT",
+  "dependencies": {
+    "escodegen": "^1.11.1"
+  }
+}
