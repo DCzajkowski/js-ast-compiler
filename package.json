@@ -1,6 +1,6 @@
 {
   "name": "js-ast-compiler",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Compiles ESTree compatible JavaScript AST to JavaScript code",
   "main": "compile.js",
   "repository": "https://github.com/DCzajkowski/js-ast-compiler",
